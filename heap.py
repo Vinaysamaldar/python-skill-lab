@@ -1,0 +1,1 @@
+print ("the pyhton program to print thr z code the number of the code is exicute the in pyhton and now you can say the programmer in basic of  the programming longuage in the world")
